@@ -1,4 +1,4 @@
-# TinyCircuits Wireling Pulse Oxymetry
+# TinyCircuits Wireling Pulse Oximetry
 # AST1041 Rev1
 
 The design files are located under design_files/ for the TinyCircuits AST1041 Rev 1 PCB. This is a Wireling board which features the MAX30101, an integrated pulse oximetry and heart-rate monitor module. 
